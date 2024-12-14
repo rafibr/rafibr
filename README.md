@@ -43,23 +43,7 @@ I specialize in creating innovative web and mobile solutions using modern techno
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rafibr&theme=radical" alt="GitHub Trophies" />
 </div>
-
----
-
-## 🌟 Holopin Badges  
-If you’ve participated in hackathons or open-source events, you can showcase badges here!  
-<div align="center">
-  <a href="https://holopin.io/rafibr">
-    <img src="https://holopin.me/rafibr" alt="Holopin Badges" />
-  </a>
-</div>
-
----
-
-## 🌱 Currently Learning  
-- **Cloud Solutions**: AWS, Google Cloud  
-- **AI/ML**: TensorFlow, PyTorch  
-
+ 
 ---
 
 ## 📫 Let's Connect!  
